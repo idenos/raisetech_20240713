@@ -10,9 +10,13 @@
 ## ⑤. EC2からRDSへの接続
 ![EC2からRDSへの接続](./image_lec4/0013_RDS_login.png)
 ## ⑥. EC2のセキュリティグループ
-![EC2のセキュリティーグループ](./image_lec4/0015_ECS_Security.png)
+![EC2のセキュリティーグループ](./image_lec4/0014_EC2_Security.png)
+## ⑦. ECのセキュリティールール
+![EC2のセキュリティールール](./image_lec4/0016_EC2_Security_rule.png)
 ## ⑦. RDSのセキュリティーグループ
 ![RDSのセキュリティーグループ](./image_lec4/0010_RDS_Network_and_Security.png)
+## ⑧. RDSのセキュリティールール
+![RDSのセキュリティールール](./image_lec4/0017_RDS_Security_rule.png)
 
 ## 今回の課題で学んだこと、感じたこと
 VPCの作成については、既存のVPCにサブネットの設定をしてしまい、EC2の作成とRDSの作成を含め約1カ月以上時間を費やすことになりました。AWSの無料期間が過ぎてしまったので、新しく家族の枠でAWSのアカウントを作成しました。以降の課題もこちらで行います。
