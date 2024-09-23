@@ -10,7 +10,7 @@
 ## ⑤. EC2からRDSへの接続
 ![EC2からRDSへの接続](./image_lec4/0013_RDS_login.png)
 ## ⑥. EC2のセキュリティグループ
-![EC2のセキュリティーグループ](./image_lec4/0014_ECS_Security.png)
+![EC2のセキュリティーグループ](./image_lec4/0015_ECS_Security.png)
 ## ⑦. RDSのセキュリティーグループ
 ![RDSのセキュリティーグループ](./image_lec4/0010_RDS_Network_and_Security.png)
 
