@@ -9,11 +9,9 @@
 ![TeraTerm5でのSSH接続](./image_lec4/0012_EC2_login.png)
 ## ⑤. EC2からRDSへの接続
 ![EC2からRDSへの接続](./image_lec4/0013_RDS_login.png)
-## ⑥. EC2のセキュリティグループ
-![EC2のセキュリティーグループ](./image_lec4/0014_EC2_Security.png)
-## ⑦. RDSのセキュリティーグループ
-![RDSのセキュリティーグループ](./image_lec4/0010_RDS_Network_and_Security.png)
-## ⑧. RDSのセキュリティールール
+## ⑥. EC2のセキュリティルール
+![EC2のセキュリティールール](./image_lec4/0015_EC2_Security.png)
+## ⑦. RDSのセキュリティールール
 ![RDSのセキュリティールール](./image_lec4/0017_RDS_Security_rule.png)
 
 ## 今回の課題で学んだこと、感じたこと
