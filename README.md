@@ -1,2 +1,2 @@
-# raisetach_20240713
+# raisetech_20240713
 RaiseTech_AWS_Kadai_2
