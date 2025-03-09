@@ -29,14 +29,17 @@
 - ブラウザにてALBのDNS名にアクセスしてRailsアプリケーションが表示できるか確認
 ![](./image_lec05/0011_alb_app.png)
 ## ⑥. S3の追加と設定
-- Railsアプリで画像ファイルを追加する
+- Railsアプリで画像ファイルを追加する(aaaという名前で追加)
 ![](./image_lec05/0013_App_file_add_aaa.png)
+- 画像ファイルの追加に成功
 ![](./image_lec05/0014_Fruit_file_aaa_add_success.png)
+- aaaという名前の画像ファイルが追加されたことを確認
 ![](./image_lec05/0016_App_Home_aaa.png)
 - Railsアプリで画像ファイル追加後にS3バケットを確認する
 ![](./image_lec05/0017_S3_bucket_aaa.png)
 - Railsアプリで画像ファイルを削除する
 ![](./image_lec05/0018_App_del_aaa.png)
+- ブラウザで削除した画像ファイルが無いことを確認
 ![](./image_lec05/0019_alb_app.png)
 - Railsアプリで画像ファイルを削除後にS3バケットを確認する
 ![](./image_lec05/0020_S3_bucket_0.png)
