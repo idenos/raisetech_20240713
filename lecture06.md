@@ -34,7 +34,7 @@
 
 ## ④. 今月までのAWSの料金
 - 現在 2025年3月18日時点での利用料
-![](./image_lec06/0013_見積.png)<br><br>
+![](./image_lec06/0013_mitsumori.png)<br><br>
 
 - ECSの料金
 ![](./image_lec06/0015_EC2.png)<br><br>
