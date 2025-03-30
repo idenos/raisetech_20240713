@@ -2,6 +2,8 @@
 ## ①. 最後にAWSを利用した日の記録をCloudTrailのイベントから探し出す
 - CloudTrailのイベント履歴から自身のIAMユーザで最後に利用したイベント(にS3バケットを削除した)を確認
   - イベント名：DeleteBucket
+  - イベントソース:s3.amazonaws.com
+  - イベントタイム: 2025-03-16T06:49:17Z
 ![](./image_lec06/0001_CloudTrail_DeleteBucket.png)<br><br>
 
 ## ②. CloudWatchアラームを使って、ALBのアラームを設定し、メール通知する
@@ -29,7 +31,7 @@
 ![](./image_lec06/0014_AlarmOK_Mail.png)
 
 ## ③. AWS利用料の見積を作成する
-[AWS利用料の見積り]https://calculator.aws/#/estimate?id=ce776c078ee4e17b7cda0a1bfa7d95356bd19c28
+[AWS利用料の見積り](https://calculator.aws/#/estimate?id=505d43d13722de3006546443fdcf1f2d2bd26d00)
 
 
 ## ④. 今月までのAWSの料金
@@ -45,5 +47,4 @@
 ## AWSの料金に関する考察
 - EC2ですが、第5回の課題に時間がかかり、その間マシンを停止しなかったため無料分の750時間を超えてしまっているので、通常の費用がかかっています。またロードバランサ確認のためマシンを２台作成しています。
 - VPCのパブリックIPアドレスの使用に費用が掛かることに気づいていませんでした。構築での予算配分などまだまだ勉強が必要と感じました。
-
 
