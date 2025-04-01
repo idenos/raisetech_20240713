@@ -31,7 +31,7 @@
 ![](./image_lec06/0014_AlarmOK_Mail.png)
 
 ## ③. AWS利用料の見積を作成する
-[AWS利用料の見積り](https://calculator.aws/#/estimate?id=505d43d13722de3006546443fdcf1f2d2bd26d00)
+[AWS利用料の見積り](https://calculator.aws/#/estimate?id=c339a73e5dd137716d5ed2718460a950902bb21d)
 
 
 ## ④. 今月までのAWSの料金
